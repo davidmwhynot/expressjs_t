@@ -1,0 +1,26 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "Simple customer management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "express-validator": "^4.2.1",
+    "mongojs": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmwhynot/expressjs_t.git"
+  },
+  "author": "David Whynot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmwhynot/expressjs_t/issues"
+  },
+  "homepage": "https://github.com/davidmwhynot/expressjs_t#readme"
+}
