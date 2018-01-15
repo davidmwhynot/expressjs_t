@@ -173,6 +173,6 @@ app.delete('/users/delete/:id', function(req, res) {
   });
 });
 
-app.listen(3000, function() {
+app.listen(8080, function() {
   console.log('\nServer started!\nPort: 3000\n');
 });
